@@ -1,12 +1,12 @@
 # Specify the Python version
 # python_version==3.8
 
+# Streamlit for the user interface
+streamlit
+
 # ChatterBot and its dependencies
 chatterbot
 chatterbot_corpus
-
-# Streamlit for the user interface
-streamlit
 
 # Additional libraries for natural language processing (NLP)
 nltk
