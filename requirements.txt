@@ -1,14 +1,4 @@
-# Specify the Python version
-# python_version==3.8
-
-# Streamlit for the user interface
-streamlit
-
-# ChatterBot and its dependencies
-chatterbot
-chatterbot_corpus
-
-# Additional libraries for natural language processing (NLP)
-nltk
-numpy
-pymupdf 
+PyMuPDF==1.20.2
+transformers==4.24.0
+torch==1.13.1
+streamlit==1.14.0
