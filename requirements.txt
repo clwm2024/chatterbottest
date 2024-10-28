@@ -2,3 +2,4 @@ PyMuPDF==1.20.2
 transformers==4.24.0
 torch
 streamlit==1.14.0
+tokenizers==0.10.3
