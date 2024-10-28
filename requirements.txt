@@ -1,5 +1,5 @@
 # Specify the Python version
-python_version = "3.8"
+python_version=="3.8"
 
 # ChatterBot and its dependencies
 chatterbot==1.0.5
