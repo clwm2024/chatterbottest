@@ -2,8 +2,8 @@
 # python_version==3.8
 
 # ChatterBot and its dependencies
-chatterbot==1.0.5
-chatterbot_corpus==1.2.0
+chatterbot
+chatterbot_corpus
 
 # Streamlit for the user interface
 streamlit
